@@ -5,14 +5,14 @@ This repository contains the replication of the paper: "A Proactive Intelligent 
 
 The goal of this project is to reproduce the predictive and optimization framework proposed in the original study.  
 The work includes:
-- Prediction Module: Evaluation of five machine learning models (Random Forest, AdaBoost, SVM, KNN, Naive Bayes) using a rolling window scheme.
-- Feature Importance Analysis: Identification of the most influential attributes for popularity prediction.
-- Optimization Module: Application of a stochastic hill-climbing strategy to improve article popularity through editable features.
+- Prediction Module: evaluation of five machine learning models (Random Forest, AdaBoost, SVM, KNN, Naive Bayes) using a rolling window scheme.
+- Feature Importance Analysis: identification of the most influential attributes for popularity prediction.
+- Optimization Module: application of a stochastic hill-climbing strategy to improve article popularity through editable features.
 
 Repository Contents
-- main.ipynb: Notebook with the full implementation.
-- BigDataAnalytics_Report.pdf: Detailed report describing methodology, results, and comparison with the original paper.
-- OriginalPaper.pdf: The reference paper used for replication.
+- main.ipynb: notebook with the full implementation.
+- BigDataAnalytics_Report.pdf: a report describing methodology, results and comparison with the original paper.
+- OriginalPaper.pdf: the reference paper used for replication.
 - requirements.txt: libraries and their versions required to run the project.
 
 Links:
