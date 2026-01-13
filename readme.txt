@@ -1,7 +1,7 @@
 
-# Big Data Analytics Course Project
+Big Data Analytics Course Project
 
-This repository contains the replication of the paper: "A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News"**
+This repository contains the replication of the paper: "A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News"
 
 The goal of this project is to reproduce the predictive and optimization framework proposed in the original study.  
 The work includes:
