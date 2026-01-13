@@ -13,6 +13,7 @@ Repository Contents
 - main.ipynb: Notebook with the full implementation.
 - BigDataAnalytics_Report.pdf: Detailed report describing methodology, results, and comparison with the original paper.
 - original_paper.pdf: The reference paper used for replication.
+- requirements.txt: libraries and their versions required to run the project.
 
 Links:
 - Paper link: https://www.semanticscholar.org/paper/A-Proactive-Intelligent-Decision-Support-System-for-Fernandes-Vinagre/ad7f3da7a5d6a1e18cc5a176f18f52687b912fea
