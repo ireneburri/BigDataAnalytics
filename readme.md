@@ -12,7 +12,7 @@ The work includes:
 Repository Contents
 - main.ipynb: Notebook with the full implementation.
 - BigDataAnalytics_Report.pdf: Detailed report describing methodology, results, and comparison with the original paper.
-- original_paper.pdf: The reference paper used for replication.
+- OriginalPaper.pdf: The reference paper used for replication.
 - requirements.txt: libraries and their versions required to run the project.
 
 Links:
